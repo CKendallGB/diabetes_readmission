@@ -1,6 +1,6 @@
 # Diabetes readmission
 
-The purpose of this project is to examine data on diabetes patients in the US and develop code that determines whether a patient is likely to be readmitted or not. The data for the project can be found at:
+The purpose of this project is to examine data on diabetes patients in the US and develop code that determines whether a patient is likely to be readmitted or not. The data for the project can be found in this github repository and at:
 
 https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008
 
