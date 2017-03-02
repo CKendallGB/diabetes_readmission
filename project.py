@@ -18,9 +18,7 @@ named after columns and a txt file communicating more numerical information.
 A large amount of the data dealt with categorical data, to clarify how it's 
 talked about I will be calling the overall information a 'field' which has 
 different 'categories'. For example age is a field with the categories 10-20, 
-20-30,etc. In most circumstances a field will be interchangable with a column
-until the data is one hot encoded, at which point a field will span as many 
-columns as is has categories. 
+20-30,etc.
 
 Typical running time is around 3-5 minutes without optimising parameters. 
 
